@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <div>shrishti bansal</div>
+    <div>shubham mishra</div>
   )
 }
 
